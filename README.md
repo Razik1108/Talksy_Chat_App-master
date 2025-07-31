@@ -162,23 +162,3 @@ Contributions, issues, and feature requests are welcome!
 
 This project is licensed under the MIT License.
 
-- Talksy, a full-stack real-time chat application built with:
- .✅ React.js + Context API
- .✅ Node.js, Express.js, MongoDB
- .✅ Socket.IO for real-time messaging
- .✅ JWT Auth, secure login/logout
- .✅ Clean UI with Tailwind CSS
- .✅ Upload profile pictures with Cloudinary integration
-.🔧 Features:
-.One-to-one private messaging
-.Live user status updates
-.Real-time message delivery
-.Authentication & Authorization
-.Responsive UI/UX
-
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
