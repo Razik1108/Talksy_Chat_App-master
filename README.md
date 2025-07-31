@@ -58,22 +58,7 @@ Login Page	Chat Interface
 	
 📂 Folder Structure
 
-Talksy_Chat_App-master/
-├── client/                 # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   └── App.jsx
-├── server/                 # Express backend
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   └── index.js
-├── .env                    # Environment variables
-├── README.md               # Project documentation
-└── package.json            # Project metadata
+<img width="619" height="325" alt="image" src="https://github.com/user-attachments/assets/b590af45-dbe8-4819-bd58-86e1504da82f" />
 
 ⚙️ Setup & Installation
 Prerequisites
