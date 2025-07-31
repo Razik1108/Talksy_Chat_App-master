@@ -1,4 +1,4 @@
-demo link = https://lnkd.in/df5RE229
+demo link = https://talksy-chat-app-qlkv.vercel.app/
 
 💬 Talksy — Real-Time Chat Application
 
