@@ -10,18 +10,18 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - Talksy, a full-stack real-time chat application built with:
-✅ React.js + Context API
- ✅ Node.js, Express.js, MongoDB
- ✅ Socket.IO for real-time messaging
- ✅ JWT Auth, secure login/logout
- ✅ Clean UI with Tailwind CSS
- ✅ Upload profile pictures with Cloudinary integration
-🔧 Features:
-One-to-one private messaging
-Live user status updates
-Real-time message delivery
-Authentication & Authorization
-Responsive UI/UX
+ .✅ React.js + Context API
+ .✅ Node.js, Express.js, MongoDB
+ .✅ Socket.IO for real-time messaging
+ .✅ JWT Auth, secure login/logout
+ .✅ Clean UI with Tailwind CSS
+ .✅ Upload profile pictures with Cloudinary integration
+.🔧 Features:
+.One-to-one private messaging
+.Live user status updates
+.Real-time message delivery
+.Authentication & Authorization
+.Responsive UI/UX
 
 
 ## Expanding the ESLint configuration
